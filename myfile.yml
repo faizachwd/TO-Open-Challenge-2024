@@ -1,0 +1,21 @@
+name: BenchedTO-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bqplot
+  - ipympl
+  - ipyvolume
+  - scipy
+  - voila
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - geopandas
+  - jupyterlab
+  - ipywidgets
+  - pickle
+  - pip
+  - nbconvert
+  -  jupyter_server
