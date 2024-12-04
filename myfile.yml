@@ -17,5 +17,5 @@ dependencies:
   - ipywidgets
   - pickle
   - pip
-  - nbconvert
-  -  jupyter_server
+  - gradio
+  - jupyter_server
